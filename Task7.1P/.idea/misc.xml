@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/drawable/shape_bg_1.xml" value="0.1135" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/drawable/shape_bg_2.xml" value="0.1135" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/drawable/shape_bg_3.xml" value="0.1135" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/drawable/shape_bg_fff_4.xml" value="0.189" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/layout/activity_add.xml" value="0.23229166666666667" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/layout/activity_sel.xml" value="0.176" />
+        <entry key="..\:/TB_zuoye/view/View_zhexian_Manyview/app/src/main/res/layout/layout_title_view.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1715" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/drawable/shape_bg_1.xml" value="0.1715" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/drawable/shape_bg_2.xml" value="0.1715" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/drawable/shape_bg_3.xml" value="0.1715" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/drawable/shape_bg_fff_4.xml" value="0.1715" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/layout/activity_add.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/lijia/Downloads/Task7.1P/app/src/main/res/layout/activity_detail.xml" value="0.1762917933130699" />
+        <entry key="..\:/wps88800023/View_z3/app/src/main/res/layout/activity_add.xml" value="0.24583333333333332" />
+        <entry key="..\:/wps88800023/View_z3/app/src/main/res/layout/activity_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800023/View_z3/app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
+        <entry key="..\:/wps88800023/View_z3/app/src/main/res/layout/activity_sel.xml" value="0.24583333333333332" />
+        <entry key="..\:/wps88800023/View_z3/app/src/main/res/layout/item_meal.xml" value="0.24583333333333332" />
+        <entry key="..\:/wps88800023/View_z4/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/wps88800023/View_z4/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/wps88800023/View_z4/app/src/main/res/layout/activity_list.xml" value="0.25" />
+        <entry key="..\:/wps88800023/View_z4/app/src/main/res/layout/activity_sel.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
