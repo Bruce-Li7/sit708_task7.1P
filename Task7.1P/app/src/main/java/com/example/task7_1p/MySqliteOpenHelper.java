@@ -22,14 +22,14 @@ public class MySqliteOpenHelper extends SQLiteOpenHelper {
 
     public static synchronized SQLiteOpenHelper getInstance(Context context) {
         if (mInstance == null) {
-            mInstance = new MySqliteOpenHelper(context, "AnglinDB", null, 1);//想要数据库升级把1改为2
+            mInstance = new MySqliteOpenHelper(context, "AnglinDB", null, 1);
         }
         return mInstance;
     }
 
 
     private MySqliteOpenHelper(@Nullable Context context, @Nullable String name, @Nullable SQLiteDatabase.CursorFactory factory, int version) {
-        super(context, name, factory, version);//传给父类
+        super(context, name, factory, version);
     }
 
 
